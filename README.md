@@ -9,6 +9,7 @@
 - 💡 You'll find me solving real-world problems with coding and a lot of math
 - 💞️ I’m looking to collaborate on open-sources projects
 - :art: I love music, arts and philosophy!
+- :rocket: Excellence through persistence!
 
 ---
 ### :toolbox:  Language and Tools
@@ -41,9 +42,13 @@
 </a>
 <br />
 
-#
+---
 
 <h3 align="left"> :pushpin: My Projects</h3>
+
+<p align="center">
+I have worked on projects across some fields. 
+</p>
 
 
 
