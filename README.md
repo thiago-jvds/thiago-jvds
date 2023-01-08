@@ -2,6 +2,8 @@
 
 **`Data Scientist & ML Engineer`**
 
+![](cv.gif)
+
 ## 🙌  About
 
 - 📚 Studying Computer Science & Engineering @ MIT ('25)
