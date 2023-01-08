@@ -1,8 +1,8 @@
-# 🤙 Thiago Veloso
+# 🤙  Thiago Veloso
 
 **`Data Scientist & ML Engineer`**
 
-## 🙌 About
+## 🙌  About
 
 - 📚 Studying Computer Science & Engineering @ MIT ('25)
 - 👀 I’m higly interested in ML/AI and Software Development in general
@@ -11,7 +11,7 @@
 - 📫 How to reach me: hit me up with a message!
 
 ---
-### :toolbox: Language and Tools
+### :toolbox:  Language and Tools
 
 <img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />  
@@ -31,7 +31,7 @@
 
 # 
 
-### :earth_americas: Connect with me
+### :earth_americas:  Connect with me
 
 <a href="https://www.linkedin.com/in/thiago-veloso-604955186/">
     <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
