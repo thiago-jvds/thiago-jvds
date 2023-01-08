@@ -2,7 +2,7 @@
 
 **`Data Scientist & ML Engineer`**
 
-![](/Users/thiagodesouza/Downloads/cv.gif)
+![Alt Text](https://miro.medium.com/max/1200/1*s9raSe9mLeSSuxE3API-ZA.gif)
 
 ## 🙌  About
 
