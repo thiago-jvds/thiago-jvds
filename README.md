@@ -2,7 +2,7 @@
 
 **`Data Scientist & ML Engineer`**
 
-![](cv.gif)
+![](/Users/thiagodesouza/Downloads/cv.gif)
 
 ## 🙌  About
 
