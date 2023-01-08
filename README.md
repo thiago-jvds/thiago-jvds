@@ -8,7 +8,7 @@
 - 👀 I’m higly interested in ML/AI and Software Development in general
 - 💡 You'll find me solving real-world problems with coding and a lot of math
 - 💞️ I’m looking to collaborate on open-sources projects
-- 📫 How to reach me: hit me up with a message!
+- :art: I love music, arts and philosophy!
 
 ---
 ### :toolbox:  Language and Tools
@@ -31,8 +31,7 @@
 
 # 
 
-<h3 align="center">:earth_americas:  Connect with me</h3>
-
+<h3 align="left">:earth_americas:  Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thiago-veloso-604955186/">
     <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
@@ -47,7 +46,9 @@
 
 #
 
-### :pushpin: My Projects 
+<h3 align="left"> :pushpin: My Projects</h3>
+
+
 
 
 
