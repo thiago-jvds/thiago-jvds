@@ -81,7 +81,7 @@ Got interested? Here are some projects you will find there :)
 
 <h3 align="center">Thanks for checking out and hope you enjoyed :)</h3>
 
-<p align="center">
+<p align="left">
     \  <br />          
     /    /\__/\  <br /> 
     \__=(  o_O )= <br />
