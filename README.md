@@ -5,7 +5,7 @@
     <img align="center" src="cv.gif"/>
     <br />
     <br />
-    <i font-size="large">
+    <i font-size="20px">
         Things I like to work on :)
     <i/>
 
