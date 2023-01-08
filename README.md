@@ -2,7 +2,7 @@
 
 **`Data Scientist & ML Engineer`**
 
-<img src="https://miro.medium.com/max/1200/1*s9raSe9mLeSSuxE3API-ZA.gif">
+<img src="https://miro.medium.com/max/1200/1*s9raSe9mLeSSuxE3API-ZA.gif"/>
 
 ## 🙌  About
 
