@@ -29,6 +29,8 @@
 <img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <br />
 
+# 
+
 ### :earth_americas: Connect with me
 
 <a href="https://www.linkedin.com/in/thiago-veloso-604955186/">
