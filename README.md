@@ -2,7 +2,7 @@
 
 **`Data Scientist & ML Engineer`**
 
-![](cv.gif)
+<img align="center" src="cv.gif">
 
 ## 🙌  About
 
