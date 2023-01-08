@@ -38,7 +38,7 @@
 <a/>
 
 <a href="https://www.instagram.com/thiago.jvds/">
-    <img align="left" width="30px" style="padding-right:10px;" src="https://css.gg/instagram.css" /> 
+    <svg align="left" width="30px" style="padding-right:10px;" src="https://css.gg/instagram.css" > </svg>
 <a/>
 
 #
