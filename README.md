@@ -4,7 +4,10 @@
 <p align="center">
     <img align="center" src="cv.gif"/>
     <br />
-    <i>Things I like to work on :)<i/>
+    <br />
+    <i font-size="large">
+        Things I like to work on :)
+    <i/>
 
 </p>
 
