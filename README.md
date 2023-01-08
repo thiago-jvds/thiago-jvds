@@ -13,8 +13,7 @@
 ---
 ### :toolbox: Language and Tools
 
-<img aling='left' alt='Java' width="30px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
-<img aling='left' alt='Java' width="30px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />    
+<img aling='left' alt='Java' width="30px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img aling='left' alt='Java' width="30px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />    
 <img aling='left' alt='Java' width="30px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
 <img aling='left' alt='Java' width="30px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />  
 <img aling='left' alt='Java' width="30px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
