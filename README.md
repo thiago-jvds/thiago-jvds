@@ -37,9 +37,8 @@
     <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
 <a/>
 
-<a href="https://www.instagram.com/thiago.jvds/">
-    <svg align="left" width="30px" style="padding-right:10px;" src="https://css.gg/instagram.css" > </svg>
-<a/>
+<br />
+
 
 #
 
