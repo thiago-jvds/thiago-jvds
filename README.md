@@ -1,9 +1,11 @@
 # 🤙  Thiago Veloso
 
 **`Data Scientist & ML Engineer`**
+<p align="center">
+    <img align="center" src="cv.gif">
+    <i>Things I like to work on :)<i/>
 
-<img align="center" src="cv.gif">
-<i align="left">Things I like to work on :)<i/>
+</p>
 
 ## 🙌  About
 
