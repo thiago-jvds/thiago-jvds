@@ -7,7 +7,7 @@
     <br />
     <i font-size="20px">
         Things I like to work on :)
-    <i/>
+    </i>
 
 </p>
 
@@ -39,6 +39,10 @@
 <img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 
 <img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
+
+
+<img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+          
           
 <br />
 
@@ -59,8 +63,32 @@
 <h3 align="left"> :pushpin: My Projects</h3>
 
 <p align="left">
-I have worked on projects across some fields. 
+I have worked on projects across many fields and I compilled them into a <a href="https://github.com/thiago-jvds/my_projects">repository</a>. They are from either personal projects, classes I have taken or internships and research works I have done. There you can find things in Inference, Optimization, Math, Programming, Algorithms and more!
+
+Got interested? Here are some projects you will find there :)
+
+- Wikipedia Page Rank with Markov Chain algorithm
+- Image Processing with custom filters
+- LISP Interpreter
+- A-star path finding algorithm
+- Spam Fitering with Naïve-Bayes
+- Movie Recommender
+- Revenue Management Problem
+- :construction_worker: and many more, as I add them
 </p>
+
+#
+
+<h3 align="center">Thanks for checking out and hope you enjoyed :)</h3>
+
+<p align="center">
+    \            
+    /    /\__/\  
+    \__=(  o_O )=
+    (__________) 
+    |_ |_ |_ |_ 
+</p>
+
 
 
 
