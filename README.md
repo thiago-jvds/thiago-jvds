@@ -56,6 +56,12 @@
 
 <a href="https://instagram.com/thiago.jvds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiago.jvds" height="30" width="40" />
 </a>
+
+<a href="https://www.kaggle.com/thiagovelso">
+
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
+          
+</a>
 <br />
 
 ---
