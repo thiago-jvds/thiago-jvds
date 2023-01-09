@@ -21,18 +21,29 @@
 - 🚀 Excellence through persistence!
 
 ```yml
+from Persistence import Excellence
 
-const thiago = {
+class Thiago:
 
-    country: "brazil"
-    current_city: "cambridge"
-    current_country: "USA"
-    
+    def __init__(self):
+        self.country = "brazil"
+        self.current_city = "cambridge_USA"
+        self.current_job = "student"
+        self.university = "MIT"
 
+    def im_interested_in(self):
+        return { 
+                "professional": ["ML/AI", "DevOps", "big_data", "software_eng"],
+                "hobbies": ["music", "cinema", "art", "philosophy", "jazz", "politics"],
+                "4fun": ["computer_vision", "inference", "optimization"]
+                }
 
+    def goals_2023(self):
 
-
-}
+        return learn(["C", "TS", "data_pipeline"]) \\
+               and improve(["data_science_skills", "software_eng_skills"]) \\
+               and help_with_technology(self.country) \\
+               and Excellence("everything")
 ```
 
 ---
