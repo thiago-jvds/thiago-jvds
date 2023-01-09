@@ -94,7 +94,7 @@ Got interested? Here are some projects you will find there :)
 - 🗺️ A-star path finding algorithm
 - :no_entry_sign: Spam Fitering with Naïve-Bayes
 - :movie_camera: Movie Recommender
-- :money_bag: Revenue Management Problem
+- :moneybag: Revenue Management Problem
 - :construction_worker: and many more, as I add them
 </p>
 
