@@ -20,6 +20,21 @@
 - :art: I love music, arts and philosophy!
 - :rocket: Excellence through persistence!
 
+```yml
+
+const thiago = {
+
+    country: "brazil"
+    current_city: "cambridge"
+    current_country: "USA"
+    
+
+
+
+
+}
+```
+
 ---
 ### :toolbox:  Language and Tools
 
