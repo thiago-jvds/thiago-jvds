@@ -1,6 +1,6 @@
 # 🤙  Thiago Veloso
 
-**`Data Scientist & ML Engineer`**
+**`Software Engineer & Data Scientist`**
 <p align="center">
     <img align="center" src="cv.gif"/>
     <br />
@@ -10,15 +10,6 @@
     </i>
 
 </p>
-
-## 🙌  About
-
-- 📚 Studying Computer Science & Engineering @ MIT ('25)
-- 👀 I’m higly interested in ML/AI and Software Development in general
-- 💡 You'll find me solving real-world problems with coding and a lot of math
-- 💞️ I’m looking to collaborate on open-sources projects
-- 🎨 I love music, arts and philosophy!
-- 🚀 Excellence through persistence!
 
 ```yml
 from Persistence import Excellence
@@ -97,13 +88,13 @@ I have worked on projects across many fields and I compilled them into a <a href
 
 Got interested? Here are some projects you will find there :)
 
-- Wikipedia Page Rank with Markov Chain algorithm
-- Image Processing with custom filters
-- LISP Interpreter
-- A-star path finding algorithm
-- Spam Fitering with Naïve-Bayes
-- Movie Recommender
-- Revenue Management Problem
+- :globe_with_meridians: Wikipedia Page Rank with Markov Chain algorithm
+- :bridge_at_night: Image Processing with custom filters
+- :computer: LISP Interpreter
+- 🗺️ A-star path finding algorithm
+- :no_entry_sign: Spam Fitering with Naïve-Bayes
+- :movie_camera: Movie Recommender
+- :money_bag: Revenue Management Problem
 - :construction_worker: and many more, as I add them
 </p>
 
