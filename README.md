@@ -17,6 +17,7 @@ from Persistence import Excellence
 class Thiago:
 
     def __init__(self):
+    
         self.country = "brazil"
         self.current_city = "cambridge_USA"
         self.current_job = "student"
