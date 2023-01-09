@@ -82,11 +82,11 @@ Got interested? Here are some projects you will find there :)
 <h3 align="center">Thanks for checking out and hope you enjoyed :)</h3>
 
 <p align="left">
-    \  <br />          
-    /    /\__/\  <br /> 
-    \__=(  o_O )= <br />
+    \  <br />         
+    /&nbsp;&nbsp;&nbsp;&nbsp;     /\__/\  <br /> 
+    \__=(&nbsp;&nbsp;    o_O &nbsp; )= <br />
     (__________)  <br/>
-    |_ |_ |_ |_  <br/>
+    |_&nbsp;|_&nbsp; |_&nbsp;  |_  <br/>
 </p>
 
 
