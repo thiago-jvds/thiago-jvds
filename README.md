@@ -17,8 +17,8 @@
 - 👀 I’m higly interested in ML/AI and Software Development in general
 - 💡 You'll find me solving real-world problems with coding and a lot of math
 - 💞️ I’m looking to collaborate on open-sources projects
-- :art: I love music, arts and philosophy!
-- :rocket: Excellence through persistence!
+- 🎨 I love music, arts and philosophy!
+- 🚀 Excellence through persistence!
 
 ```yml
 
@@ -36,7 +36,7 @@ const thiago = {
 ```
 
 ---
-### :toolbox:  Language and Tools
+### 🛠️  Language and Tools
 
 <img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />  
