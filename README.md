@@ -60,7 +60,6 @@
 
 <a href="https://instagram.com/thiago.jvds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiago.jvds" height="30" width="40" />
 </a>
-
 <br />
 
 ---
@@ -84,7 +83,7 @@ Got interested? Here are some projects you will find there :)
 
 #
 
-<h3 align="center">Thanks for checking out and hope you enjoyed :)</h3>
+<h3 align="center">Thanks for checking out and stay tuned for more :)</h3>
 
 <p align="left">
     \  <br />         
