@@ -83,7 +83,7 @@ Got interested? Here are some projects you will find there :)
 
 <p align="left">
     \  <br />         
-    /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;      /\__/\  <br /> 
+    /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;      /\____/\  <br /> 
     \__=(&nbsp;&nbsp;    o_O &nbsp; )= <br />
     (__________)  <br/>
     |_&nbsp;|_&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    |_&nbsp;  |_  <br/>
